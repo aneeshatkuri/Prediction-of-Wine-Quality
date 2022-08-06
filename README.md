@@ -1,5 +1,7 @@
 # Prediction-of-Wine-Quality
 The principal purpose of this ML project is to develop a machine learning model to foretell the quality of wines by investigating their different chemical properties. The dataset of wine quality comprises 4898 observations with 1 dependent variable and 11 independent variables.
+
+
 <img src="https://miro.medium.com/max/875/1*2ayKmvVZCYaLPl-nmLLp5g.png">
 
 For this project, I used Kaggle’s Red Wine Quality dataset to build various classification models to predict whether a particular red wine is “good quality” or not. Each wine in this dataset is given a “quality” score between 0 and 10. For the purpose of this project, I converted the output to a binary output where each wine is either “good quality” (a score of 7 or higher) or not (a score below 7). The quality of a wine is determined by 11 input variables:
